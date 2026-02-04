@@ -539,4 +539,4 @@ You've completed the Kubernetes section of the DevOps roadmap. You now understan
 - Resource management and scaling
 - Troubleshooting and best practices
 
-**Next Topic:** [07-CI-CD](../07-CI-CD/) (Coming Soon)
+**Next Topic:** [07-CI-CD](../07-CI-CD/) 
